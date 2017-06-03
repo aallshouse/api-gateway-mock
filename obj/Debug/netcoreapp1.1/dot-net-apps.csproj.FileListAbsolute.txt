@@ -1,0 +1,8 @@
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/bin/Debug/netcoreapp1.1/dot-net-apps.deps.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/bin/Debug/netcoreapp1.1/dot-net-apps.runtimeconfig.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/bin/Debug/netcoreapp1.1/dot-net-apps.runtimeconfig.dev.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/bin/Debug/netcoreapp1.1/dot-net-apps.dll
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/bin/Debug/netcoreapp1.1/dot-net-apps.pdb
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/obj/Debug/netcoreapp1.1/dot-net-apps.AssemblyInfo.cs
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/obj/Debug/netcoreapp1.1/dot-net-apps.dll
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/ApiGatewayMock/obj/Debug/netcoreapp1.1/dot-net-apps.pdb
